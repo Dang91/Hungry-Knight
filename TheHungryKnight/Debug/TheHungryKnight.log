@@ -1,0 +1,4 @@
+﻿  TheHungryKnight.cpp
+D:\Computer Dev\Computer Prog. I\Hungry Knight\TheHungryKnight\TheHungryKnight\TheHungryKnight.cpp(41,64): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Computer Dev\Computer Prog. I\Hungry Knight\TheHungryKnight\TheHungryKnight\TheHungryKnight.cpp(43,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  TheHungryKnight.vcxproj -> D:\Computer Dev\Computer Prog. I\Hungry Knight\TheHungryKnight\Debug\TheHungryKnight.exe
